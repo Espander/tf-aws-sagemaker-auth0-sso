@@ -4,6 +4,5 @@
  - In the repo directory run
 ```
 terraform init
-terraform validate
 terraform apply
 ```
